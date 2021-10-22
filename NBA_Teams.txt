@@ -4,10 +4,12 @@ Sans enregistrement :
 L’utilisateur peut uniquement consulter la page, clicker sur une équipe et consulter les membres qui la compose
 
 Avec enregistrement « utilisateur » :
-L’utilisateur peut uniquement consulter la page, clicker sur une équipe et consulter les membres qui la compose
-Il pourra aussi, cocher une case pour signifier qu’il supporte cette équipe
+L’utilisateur uniquement consulter la page, clicker sur une équipe et consulter les membres qui la compose
+Il pourra aussi, cocher une case pour signifier qu’il supporte une équipe, la retrouver dans son profil utilisateur et voir le nombres de supportaires pour une équipe.
 
-Avec enregistrement « admin » :
-L’utilisateur peut uniquement consulter la page, clicker sur une équipe et consulter les membres qui la compose
-Il pourra aussi, cocher une case pour signifier qu’il supporte cette équipe
-Il pourra modifier les joueurs qui composent chaque équipe en cas de transfert de joueurs.
+
+1- s'inscrire avec un nom / un mdp / un Email
+2- se connecter avec les memes identifiants
+3- l'utilisateur peut ensuite voir son profil et cocher dans l'onglet teams, son equipe préférée.
+	Il peut voir le nombre de supportaires pour une équipe.
+ 	Il peut aussi se déconnecter. 

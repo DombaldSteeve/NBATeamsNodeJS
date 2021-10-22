@@ -1,5 +1,5 @@
 import mongoose from 'mongoose';
-import { stringify } from 'querystring';
+
 //import { Schema } from 'mongoose';
 mongoose.connect('mongodb://localhost:27017/nbateamsdb', {useNewUrlParser:true});
 
@@ -18,3 +18,4 @@ const userSchema = new mongoose.Schema({
 const User = mongoose.model('User', userSchema);
 
 export default User;
+
