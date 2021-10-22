@@ -1,0 +1,43 @@
+<%- include('layouts/head'); -%>
+<%- include('layouts/nav'); -%>
+
+<form action="/register/inscription" method="POST">
+    <h1>S'inscrire</h1>
+
+    <div class="form-floating">
+
+        <input class="form-control" id="name" name="userName" type="text" placeholder="Nom" style="height: 6rem"/>
+
+        <label for="name">Nom</label>
+
+    </div>
+
+    <div class="form-floating">
+
+        <input class="form-control" type="password" name="password" placeholder="Mot de passe" style="height: 6rem"></input>
+
+        <label for="password">Mot de passe</label>
+
+    </div>
+
+    <div class="form-floating">
+
+        <input class="form-control" type="email" name="email" placeholder="Email" style="height: 6rem"></input>
+
+        <label for="email">Email</label>
+
+    </div>
+
+    <br />
+
+    <button class="btn btn-primary text-uppercase" id="submitButton" type="submit">Login</button>
+
+</form>
+
+<style>
+    form {
+        padding: 150px;
+    }
+</style>
+
+<%- include('layouts/footer'); -%>

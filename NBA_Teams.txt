@@ -1,0 +1,13 @@
+NBA Teams
+
+Sans enregistrement :
+L’utilisateur peut uniquement consulter la page, clicker sur une équipe et consulter les membres qui la compose
+
+Avec enregistrement « utilisateur » :
+L’utilisateur peut uniquement consulter la page, clicker sur une équipe et consulter les membres qui la compose
+Il pourra aussi, cocher une case pour signifier qu’il supporte cette équipe
+
+Avec enregistrement « admin » :
+L’utilisateur peut uniquement consulter la page, clicker sur une équipe et consulter les membres qui la compose
+Il pourra aussi, cocher une case pour signifier qu’il supporte cette équipe
+Il pourra modifier les joueurs qui composent chaque équipe en cas de transfert de joueurs.
